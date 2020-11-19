@@ -1,4 +1,7 @@
 package com.example.registrationdesign;
 
-public class MenuActivity1 {
+import android.app.Activity;
+
+public class MenuActivity1 extends Activity {
 }
+
