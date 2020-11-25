@@ -21,7 +21,6 @@ public class menuu extends AppCompatActivity {
         btnMenu2 = findViewById(R.id.btnMenu2);
         btnMenu3 = findViewById(R.id.btnMenu3);
         btnMenu4 = findViewById(R.id.btnMenu4);
-
         btnMenu1.setOnClickListener((View.OnClickListener) this);
         btnMenu2.setOnClickListener((View.OnClickListener) this);
         btnMenu3.setOnClickListener((View.OnClickListener) this);
